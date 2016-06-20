@@ -1,3 +1,5 @@
 The org folder is for importing org.apache.io.* (this can be found at http://commons.apache.org/io/)
 
  --The Win Monkeys
+
+With the introduction of a proper REPL into Java itself (http://openjdk.java.net/jeps/222), this project is no longer necessary and has been abandoned.
